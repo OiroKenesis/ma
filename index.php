@@ -1,11 +1,16 @@
 <?php
 /**
+halo
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 Hai bro
 hai juga bro
 heehe
 hahahaha
+=======
+Hai bro
+>>>>>>> 5978d0c12619732d226b0c36bce5fdfb4f1ac076
  * CodeIgniter
  *
  * AOTHER
